@@ -1,5 +1,5 @@
 OBJ = main.o function.o 
-APPNAME = test.a 
+APPNAME = graph.a 
 TAR = final.tar 
 $(APPNAME):$(OBJ)
 	gcc -o $(APPNAME) $(OBJ) -lm

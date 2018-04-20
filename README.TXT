@@ -1,8 +1,8 @@
 #---------------------------GRAPH DRAWING  PROJECT-----------------------------
 This project is meant to draw serval kinds of praphs(including triangle,circle,
 rectangle,square,horizontal line,intersecting line). When executing, the 
-program gives user a menu so thathe user can choos a shape to draw.The mune also
-contains a exit choice. 
+program gives user a menu so that the user can choose a shape to draw. The mune
+also contains a exit choice. 
 
 Table of Content
 1.Configuration
@@ -26,7 +26,7 @@ the application.
 
 3.Operation
 ----------- 
-Run make command should be able to see a graph.a file, then run  ./graph.a 
+Run make command should be able to see a graph.a file, then run  './graph.a' 
 command then will be able to see a mune like below:
 ========= menu ============
 (1). Draw Triangle
